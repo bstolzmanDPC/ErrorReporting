@@ -1,6 +1,6 @@
 ## ErrorReporting
 
-This is a C# library that I use to generate simple xml error reports to the users desktop. 
+This is a C# library that I developed to generate simple xml error reports to the users desktop. 
 
 ___
 
